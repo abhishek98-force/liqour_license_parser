@@ -1,0 +1,101 @@
+[
+    {
+        "entity_number": "15",
+        "business_name": "Jazz Urbane Cafe, LLC",
+        "dba_name": "Jazz Urbane Cafe",
+        "address": "2296-2306 Washington St, Roxbury, MA 02119",
+        "zipcode": "02119",
+        "license_number": "LB-587125",
+        "status": null,
+        "alcohol_type": "All Alcoholic Beverages",
+        "file_name": "Voting Minutes 2-13-25.docx.pdf"
+    },
+    {
+        "entity_number": "16",
+        "business_name": "Ravello, LLC",
+        "dba_name": "Molinari\u2019s",
+        "address": "789 Adams St, Dorchester, MA 02124",
+        "zipcode": "02124",
+        "license_number": "LB-587130",
+        "status": null,
+        "alcohol_type": "All Alcoholic Beverages",
+        "file_name": "Voting Minutes 2-13-25.docx.pdf"
+    },
+    {
+        "entity_number": "17",
+        "business_name": "Kitchen + Kocktails by Kevin Kelley Boston, LLC",
+        "dba_name": "Kitchen + Kocktails by Kevin Kelley",
+        "address": "100 Arlington St, Boston, MA 02116",
+        "zipcode": "02116",
+        "license_number": "LB-587134",
+        "status": null,
+        "alcohol_type": "All Alcoholic Beverages",
+        "file_name": "Voting Minutes 2-13-25.docx.pdf"
+    },
+    {
+        "entity_number": "11",
+        "business_name": "Amabaka Corporation",
+        "dba_name": "Momo Masala",
+        "address": "2 Perkins St, Jamaica Plain, MA 02130",
+        "zipcode": "02130",
+        "license_number": "LB-582324",
+        "status": null,
+        "alcohol_type": "All Alcoholic Beverages",
+        "file_name": "Voting Minutes 1-9-25.docx_0.pdf"
+    },
+    {
+        "entity_number": "13",
+        "business_name": "JP BBQ, Inc.",
+        "dba_name": "BB.Q Chicken",
+        "address": "654 Centre St, Jamaica Plain, MA 02130",
+        "zipcode": "02130",
+        "license_number": "LB-583839",
+        "status": null,
+        "alcohol_type": "Wines and Malt Beverages",
+        "file_name": "Voting Minutes 1-9-25.docx_0.pdf"
+    },
+    {
+        "entity_number": "14",
+        "business_name": "Blue Mountain Jamaican Restaurant, LLC",
+        "dba_name": "Blue Mountain Jamaican Restaurant",
+        "address": "1301 Blue Hill Ave, Mattapan, MA 02126",
+        "zipcode": "02126",
+        "license_number": "LB-583841",
+        "status": null,
+        "alcohol_type": "All Alcoholic Beverages",
+        "file_name": "Voting Minutes 1-9-25.docx_0.pdf"
+    },
+    {
+        "entity_number": "15",
+        "business_name": "Fresh Food Generation LLC",
+        "dba_name": "Fresh Food Generation",
+        "address": "191 Talbot Ave, Dorchester, MA 02124",
+        "zipcode": "02124",
+        "license_number": "LB-583884",
+        "status": null,
+        "alcohol_type": "All Alcoholic Beverages",
+        "file_name": "Voting Minutes 1-9-25.docx_0.pdf"
+    },
+    {
+        "entity_number": "16",
+        "business_name": "F&H, INC.",
+        "dba_name": "Mi Pueblito Restaurant",
+        "address": "333 Border St, East Boston, MA 02128",
+        "zipcode": "02128",
+        "license_number": "LB-583866",
+        "status": null,
+        "alcohol_type": "All Alcoholic Beverages",
+        "file_name": "Voting Minutes 1-9-25.docx_0.pdf"
+    },
+    {
+        "entity_number": "17",
+        "business_name": "CabanaLV, Inc.",
+        "dba_name": "Cabana Grill",
+        "address": "254 Bennington St, East Boston, MA 02128",
+        "zipcode": "02128",
+        "license_number": "LB-583877",
+        "status": null,
+        "alcohol_type": "All Alcoholic Beverages",
+        "file_name": "Voting Minutes 1-9-25.docx_0.pdf"
+    }
+]
