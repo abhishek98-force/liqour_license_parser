@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All applicants (sep16 until feb13)</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>All applicants (sep16 until feb13)</h1>
+    
+    <div class="controls">
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search for restaurants, locations, etc.">
+        </div>
+        <div class="filter-container">
+            <select id="licenseTypeFilter">
+                <option value="">All License Types</option>
+                <option value="All Alcoholic Beverages">All Alcoholic Beverages</option>
+                <option value="Wines and Malt Beverages">Wines and Malt Beverages</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- <div class="summary">
+        Displaying <span id="visibleCount">0</span> of <span id="totalCount">0</span> licenses
+    </div> -->
+
+    <table id="licenseTable">
+        <thead>
+            <tr>
+                <th data-sort="business_name">Business Name</th>
+                <th data-sort="dba_name">DBA Name</th>
+                <th data-sort="address">Address</th>
+                <th data-sort="zipcode">Zipcode</th>
+                <th data-sort="license_number">License #</th>
+                <th data-sort="alcohol_type">License Type</th>
+                <th data-sort="file_name">Source File</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Table content will be populated by JavaScript -->
+        </tbody>
+    </table>
+
+    <div class="pagination">
+        <button id="prevPage" disabled>Previous</button>
+        <span id="pageInfo">Page 1 of 1</span>
+        <button id="nextPage" disabled>Next</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+    
+</body>
+</html>
